@@ -1,7 +1,9 @@
 # XMinuteReminder
 Simple QtCreator project written in C++ to remind you with `Beep` sound every `X` minutes.
 
-![Preview](https://lh6.googleusercontent.com/pArgiKi3ibHGrpPb5HNMJGPE-38Msr0xwobqrN0o60DmeR9mIzFJtmjqJYpM5WHcVpApLE_6x1v_KbdBZCi2=w1775-h985)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliOsm/XMinuteReminder/master/preview.png">
+</p>
 
 ## How to use?
 You can use the executable versions of the program or compile it yourself.
