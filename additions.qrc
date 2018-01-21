@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Beep">
+        <file>beep.wav</file>
+    </qresource>
+    <qresource prefix="/Icon">
+        <file>icon30.png</file>
+        <file>icon70.png</file>
+    </qresource>
+</RCC>
