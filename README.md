@@ -22,5 +22,8 @@ Coming soon.
 ### 2. Compile it Yourself
 You can clone this repository and add, edit or remove some features from the project then compile it.
 
+## Contributing
+Bug reports and pull requests are welcome on GitHub at https://github.com/AliOsm/XMinuteReminder.
+
 ## License
-MIT
+The project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
