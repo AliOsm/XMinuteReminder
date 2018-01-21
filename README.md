@@ -20,7 +20,7 @@ You can download executable files from this [link](https://drive.google.com/file
 Coming soon.
 
 ### 2. Compile it Yourself
-You can clone this repository and add, edit or remove some features from the project then compile it.
+You can clone this repository and open it using QtCreator then add, edit or remove some features from the project and compile it.
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/AliOsm/XMinuteReminder.
