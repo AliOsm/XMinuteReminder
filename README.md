@@ -14,7 +14,7 @@ You can use the executable versions of the program or compile it yourself.
 You can download executable files from this [link](https://drive.google.com/file/d/1x1T_YUhU1iUxMIPriUN5IqhKMnqTYuHU/view?usp=sharing), after that you can run `XMinuteReminder.exe` file to use the program.
 
 #### Linux
-You can download executable files from this [link](https://drive.google.com/file/d/1da5FBYN6841PCvpApRrkBS_ZvxGpXmiy/view?usp=sharing), after that you can run `XMinuteReminder` file to use the program.
+You can download `AppImage` file from this [link](https://drive.google.com/file/d/1OWxavzYl_GpU81OUcPWMcq9S5Tn50Y0s/view?usp=sharing), after that make it executable by running `chmod a+x XMinuteReminder.AppImage`, then run it.
 
 #### Mac OS X
 Coming soon.
